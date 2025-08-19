@@ -6,7 +6,7 @@ The learning context is on:[HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
 
 Current Progress:  36 *Completed*
 
-**Ch1 Verilog Language - Procedures Completed**
+**Ch1 Verilog Language - More Verilog Feature Completed**
 
 ## Getting Started
 
@@ -65,13 +65,13 @@ Procedures include **always**, initial, task, and function blocks. Procedures al
 
 ### More Verilog Features
 
-- [ ] [Conditional ternary operator](https://hdlbits.01xz.net/wiki/conditional)
-- [ ] [Reduction operators](https://hdlbits.01xz.net/wiki/reduction)
-- [ ] [Reduction: Even wider gates](https://hdlbits.01xz.net/wiki/gates100)
-- [ ] [Combinational for-loop: Vector reversal 2](https://hdlbits.01xz.net/wiki/vector100r)
-- [ ] [Combinational for-loop: 255-bit population count](https://hdlbits.01xz.net/wiki/popcount255)
-- [ ] [Generate for-loop: 100-bit binary adder 2](https://hdlbits.01xz.net/wiki/adder100i)
-- [ ] [Generate for-loop: 100-digit BCD adder](https://hdlbits.01xz.net/wiki/bcdadd100)
+- [x] [Conditional ternary operator](https://hdlbits.01xz.net/wiki/conditional)
+- [x] [Reduction operators](https://hdlbits.01xz.net/wiki/reduction)
+- [x] [Reduction: Even wider gates](https://hdlbits.01xz.net/wiki/gates100)
+- [x] [Combinational for-loop: Vector reversal 2](https://hdlbits.01xz.net/wiki/vector100r)
+- [x] [Combinational for-loop: 255-bit population count](https://hdlbits.01xz.net/wiki/popcount255)
+- [x] [Generate for-loop: 100-bit binary adder 2](https://hdlbits.01xz.net/wiki/adder100i)
+- [x] [Generate for-loop: 100-digit BCD adder](https://hdlbits.01xz.net/wiki/bcdadd100)
 
 ## Circuits
 
