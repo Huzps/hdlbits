@@ -4,9 +4,9 @@ This repo is used to track my learning in **Verilog**
 
 The learning context is on:[HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
 
-Current Progress:  60 *Completed*
+Current Progress:  72 *Completed*
 
-**Ch2 Circuits - Combinational Logic - Basic Gates Completed**
+**Ch2 Circuits - Combinational Logic - Arithmetic Circuits Completed**
 
 ## Getting Started
 
@@ -99,21 +99,21 @@ Procedures include **always**, initial, task, and function blocks. Procedures al
 
 #### Multiplexers
 
-- [ ] [2-to-1 multiplexer](https://hdlbits.01xz.net/wiki/mux2to1)
-- [ ] [2-to-1 bus multiplexer](https://hdlbits.01xz.net/wiki/mux2to1v)
-- [ ] [9-to-1 multiplexer](https://hdlbits.01xz.net/wiki/mux9to1v)
-- [ ] [256-to-1 multiplexer](https://hdlbits.01xz.net/wiki/mux256to1)
-- [ ] [256-to-1 4-bit multiplexer](https://hdlbits.01xz.net/wiki/mux256to1v)
+- [x] [2-to-1 multiplexer](https://hdlbits.01xz.net/wiki/mux2to1)
+- [x] [2-to-1 bus multiplexer](https://hdlbits.01xz.net/wiki/mux2to1v)
+- [x] [9-to-1 multiplexer](https://hdlbits.01xz.net/wiki/mux9to1v)
+- [x] [256-to-1 multiplexer](https://hdlbits.01xz.net/wiki/mux256to1)
+- [x] [256-to-1 4-bit multiplexer](https://hdlbits.01xz.net/wiki/mux256to1v)
 
 #### Arithmetic Circuits
 
-- [ ] [Half adder](https://hdlbits.01xz.net/wiki/hadd)
-- [ ] [Full adder](https://hdlbits.01xz.net/wiki/fadd)
-- [ ] [3-bit binary adder](https://hdlbits.01xz.net/wiki/adder3)
-- [ ] [Adder](https://hdlbits.01xz.net/wiki/exams/m2014_q4j)
-- [ ] [Signed addition overflow](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q1c)
-- [ ] [100-bit binary adder](https://hdlbits.01xz.net/wiki/adder100)
-- [ ] [4-digit BCD adder](https://hdlbits.01xz.net/wiki/bcdadd4)
+- [x] [Half adder](https://hdlbits.01xz.net/wiki/hadd)
+- [x] [Full adder](https://hdlbits.01xz.net/wiki/fadd)
+- [x] [3-bit binary adder](https://hdlbits.01xz.net/wiki/adder3)
+- [x] [Adder](https://hdlbits.01xz.net/wiki/exams/m2014_q4j)
+- [x] [Signed addition overflow](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q1c)
+- [x] [100-bit binary adder](https://hdlbits.01xz.net/wiki/adder100)
+- [x] [4-digit BCD adder](https://hdlbits.01xz.net/wiki/bcdadd4)
 
 #### Karnaugh Map to Circuit
 
