@@ -4,9 +4,9 @@ This repo is used to track my learning in **Verilog**
 
 The learning context is on:[HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
 
-Current Progress:  43 *Completed*
+Current Progress:  60 *Completed*
 
-**Ch1 Verilog Language - More Verilog Feature Completed**
+**Ch2 Circuits - Combinational Logic - Basic Gates Completed**
 
 ## Getting Started
 
@@ -79,23 +79,23 @@ Procedures include **always**, initial, task, and function blocks. Procedures al
 
 #### Basic Gates
 
-- [ ] [Wire](https://hdlbits.01xz.net/wiki/exams/m2014_q4h)
-- [ ] [GND](https://hdlbits.01xz.net/wiki/exams/m2014_q4i)
-- [ ] [NOR](https://hdlbits.01xz.net/wiki/exams/m2014_q4e)
-- [ ] [Another gate](https://hdlbits.01xz.net/wiki/exams/m2014_q4f)
-- [ ] [Two gates](https://hdlbits.01xz.net/wiki/exams/m2014_q4g)
-- [ ] [More logic gates](https://hdlbits.01xz.net/wiki/gates)
-- [ ] [7420 chip](https://hdlbits.01xz.net/wiki/7420)
-- [ ] [Truth tables](https://hdlbits.01xz.net/wiki/truthtable1)
-- [ ] [Two-bit equality](https://hdlbits.01xz.net/wiki/mt2015_eq2)
-- [ ] [Simple circuit A](https://hdlbits.01xz.net/wiki/mt2015_q4a)
-- [ ] [Simple circuit B](https://hdlbits.01xz.net/wiki/mt2015_q4b)
-- [ ] [Combine circuits A and B](https://hdlbits.01xz.net/wiki/mt2015_q4)
-- [ ] [Ring or vibrate?](https://hdlbits.01xz.net/wiki/ringer)
-- [ ] [Thermostat](https://hdlbits.01xz.net/wiki/thermostat)
-- [ ] [3-bit population count](https://hdlbits.01xz.net/wiki/popcount3)
-- [ ] [Gates and vectors](https://hdlbits.01xz.net/wiki/gatesv)
-- [ ] [Even longer vectors](https://hdlbits.01xz.net/wiki/gatesv100)
+- [x] [Wire](https://hdlbits.01xz.net/wiki/exams/m2014_q4h)
+- [x] [GND](https://hdlbits.01xz.net/wiki/exams/m2014_q4i)
+- [x] [NOR](https://hdlbits.01xz.net/wiki/exams/m2014_q4e)
+- [x] [Another gate](https://hdlbits.01xz.net/wiki/exams/m2014_q4f)
+- [x] [Two gates](https://hdlbits.01xz.net/wiki/exams/m2014_q4g)
+- [x] [More logic gates](https://hdlbits.01xz.net/wiki/gates)
+- [x] [7420 chip](https://hdlbits.01xz.net/wiki/7420)
+- [x] [Truth tables](https://hdlbits.01xz.net/wiki/truthtable1)
+- [x] [Two-bit equality](https://hdlbits.01xz.net/wiki/mt2015_eq2)
+- [x] [Simple circuit A](https://hdlbits.01xz.net/wiki/mt2015_q4a)
+- [x] [Simple circuit B](https://hdlbits.01xz.net/wiki/mt2015_q4b)
+- [x] [Combine circuits A and B](https://hdlbits.01xz.net/wiki/mt2015_q4)
+- [x] [Ring or vibrate?](https://hdlbits.01xz.net/wiki/ringer)
+- [x] [Thermostat](https://hdlbits.01xz.net/wiki/thermostat)
+- [x] [3-bit population count](https://hdlbits.01xz.net/wiki/popcount3)
+- [x] [Gates and vectors](https://hdlbits.01xz.net/wiki/gatesv)
+- [x] [Even longer vectors](https://hdlbits.01xz.net/wiki/gatesv100)
 
 #### Multiplexers
 
