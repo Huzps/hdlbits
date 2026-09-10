@@ -117,14 +117,14 @@ Procedures include **always**, initial, task, and function blocks. Procedures al
 
 #### Karnaugh Map to Circuit
 
-- [ ] [3-variable](https://hdlbits.01xz.net/wiki/kmap1)
-- [ ] [4-variable](https://hdlbits.01xz.net/wiki/kmap2)
-- [ ] [4-variable](https://hdlbits.01xz.net/wiki/kmap3)
-- [ ] [4-variable](https://hdlbits.01xz.net/wiki/kmap4)
-- [ ] [Minimum SOP and POS](https://hdlbits.01xz.net/wiki/exams/ece241_2013_q2)
-- [ ] [Karnaugh map](https://hdlbits.01xz.net/wiki/exams/m2014_q3)
-- [ ] [Karnaugh map](https://hdlbits.01xz.net/wiki/exams/2012_q1g)
-- [ ] [K-map implemented with a multiplexer](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q3)
+- [x] [3-variable](https://hdlbits.01xz.net/wiki/kmap1)
+- [x] [4-variable](https://hdlbits.01xz.net/wiki/kmap2)
+- [x] [4-variable](https://hdlbits.01xz.net/wiki/kmap3)
+- [x] [4-variable](https://hdlbits.01xz.net/wiki/kmap4)
+- [x] [Minimum SOP and POS](https://hdlbits.01xz.net/wiki/exams/ece241_2013_q2)
+- [x] [Karnaugh map](https://hdlbits.01xz.net/wiki/exams/m2014_q3)
+- [x] [Karnaugh map](https://hdlbits.01xz.net/wiki/exams/2012_q1g)
+- [x] [K-map implemented with a multiplexer](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q3)
 
 ### Sequential Logic
 
@@ -253,8 +253,19 @@ Procedures include **always**, initial, task, and function blocks. Procedures al
 ## Verification: Writing Testbenches
 
 - [ ] [Clock](https://hdlbits.01xz.net/wiki/tb/clock)
+
 - [ ] [Testbench1](https://hdlbits.01xz.net/wiki/tb/tb1)
+
 - [ ] [AND gate](https://hdlbits.01xz.net/wiki/tb/and)
+
 - [ ] [Testbench2](https://hdlbits.01xz.net/wiki/tb/tb2)
+
 - [ ] [T flip-flop](https://hdlbits.01xz.net/wiki/tb/tff)
+
+  ## CS450
+
+  - [ ] [Timer](https://hdlbits.01xz.net/wiki/Cs450/timer)
+  - [ ] [Counter 2BC](https://hdlbits.01xz.net/wiki/Cs450/counter_2bc)
+  - [ ] [History Shift](https://hdlbits.01xz.net/wiki/Cs450/history_shift)
+  - [ ] [GShare](https://hdlbits.01xz.net/wiki/Cs450/gshare)
 
