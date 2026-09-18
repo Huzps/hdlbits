@@ -151,14 +151,14 @@ Procedures include **always**, initial, task, and function blocks. Procedures al
 
 #### Counters
 
-- [ ] [Four-bit binary counter](https://hdlbits.01xz.net/wiki/count15)
-- [ ] [Decade counter](https://hdlbits.01xz.net/wiki/count10)
-- [ ] [Decade counter again](https://hdlbits.01xz.net/wiki/count1to10)
-- [ ] [Slow decade counter](https://hdlbits.01xz.net/wiki/countslow)
-- [ ] [Counter 1-12](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q7a)
-- [ ] [Counter 1000](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q7b)
-- [ ] [4-digit decimal counter](https://hdlbits.01xz.net/wiki/countbcd)
-- [ ] [12-hour clock](https://hdlbits.01xz.net/wiki/count_clock)
+- [x] [Four-bit binary counter](https://hdlbits.01xz.net/wiki/count15)
+- [x] [Decade counter](https://hdlbits.01xz.net/wiki/count10)
+- [x] [Decade counter again](https://hdlbits.01xz.net/wiki/count1to10)
+- [x] [Slow decade counter](https://hdlbits.01xz.net/wiki/countslow)
+- [x] [Counter 1-12](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q7a)
+- [x] [Counter 1000](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q7b)
+- [x] [4-digit decimal counter](https://hdlbits.01xz.net/wiki/countbcd)
+- [x] [12-hour clock](https://hdlbits.01xz.net/wiki/count_clock)
 
 #### Shift Registers
 
