@@ -4,7 +4,6 @@ This repo is used to track my learning in **Verilog**
 
 The learning context is on:[HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
 
-Current Progress:  72 *Completed*
 
 **Ch2 Circuits - Combinational Logic - Arithmetic Circuits Completed**
 
@@ -162,15 +161,15 @@ Procedures include **always**, initial, task, and function blocks. Procedures al
 
 #### Shift Registers
 
-- [ ] [4-bit shift register](https://hdlbits.01xz.net/wiki/shift4)
-- [ ] [Left/right rotator](https://hdlbits.01xz.net/wiki/rotate100)
-- [ ] [Left/right arithmetic shift by 1 or 8](https://hdlbits.01xz.net/wiki/shift18)
-- [ ] [5-bit LFSR](https://hdlbits.01xz.net/wiki/lfsr5)
-- [ ] [3-bit LFSR](https://hdlbits.01xz.net/wiki/mt2015_lfsr)
-- [ ] [32-bit LFSR](https://hdlbits.01xz.net/wiki/lfsr32)
-- [ ] [Shift register](https://hdlbits.01xz.net/wiki/exams/m2014_q4k)
-- [ ] [Shift register](https://hdlbits.01xz.net/wiki/exams/2014_q4b)
-- [ ] [3-input LUT](https://hdlbits.01xz.net/wiki/exams/ece241_2013_q12)
+- [x] [4-bit shift register](https://hdlbits.01xz.net/wiki/shift4)
+- [x] [Left/right rotator](https://hdlbits.01xz.net/wiki/rotate100)
+- [x] [Left/right arithmetic shift by 1 or 8](https://hdlbits.01xz.net/wiki/shift18)
+- [x] [5-bit LFSR](https://hdlbits.01xz.net/wiki/lfsr5)
+- [x] [3-bit LFSR](https://hdlbits.01xz.net/wiki/mt2015_lfsr)
+- [x] [32-bit LFSR](https://hdlbits.01xz.net/wiki/lfsr32)
+- [x] [Shift register](https://hdlbits.01xz.net/wiki/exams/m2014_q4k)
+- [x] [Shift register](https://hdlbits.01xz.net/wiki/exams/2014_q4b)
+- [x] [3-input LUT](https://hdlbits.01xz.net/wiki/exams/ece241_2013_q12)
 
 #### More Circuits
 
