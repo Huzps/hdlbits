@@ -174,9 +174,9 @@ Procedures include **always**, initial, task, and function blocks. Procedures al
 #### More Circuits
 
 - Cellular automata
-  - [ ] [Rule 90](https://hdlbits.01xz.net/wiki/rule90)
-  - [ ] [Rule 110](https://hdlbits.01xz.net/wiki/rule110)
-  - [ ] [Conway's Game of Life 16x16](https://hdlbits.01xz.net/wiki/conwaylife)
+  - [x] [Rule 90](https://hdlbits.01xz.net/wiki/rule90)
+  - [x] [Rule 110](https://hdlbits.01xz.net/wiki/rule110)
+  - [x] [Conway's Game of Life 16x16](https://hdlbits.01xz.net/wiki/conwaylife)
 
 #### Finite State Machines
 
