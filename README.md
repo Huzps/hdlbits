@@ -180,14 +180,14 @@ Procedures include **always**, initial, task, and function blocks. Procedures al
 
 #### Finite State Machines
 
-- [ ] [Simple FSM 1 (asynchronous reset)](https://hdlbits.01xz.net/wiki/fsm1)
-- [ ] [Simple FSM 1 (synchronous reset)](https://hdlbits.01xz.net/wiki/fsm1s)
-- [ ] [Simple FSM 2 (asynchronous reset)](https://hdlbits.01xz.net/wiki/fsm2)
-- [ ] [Simple FSM 2 (synchronous reset)](https://hdlbits.01xz.net/wiki/fsm2s)
-- [ ] [Simple state transitions 3](https://hdlbits.01xz.net/wiki/fsm3comb)
-- [ ] [Simple one-hot state transitions 3](https://hdlbits.01xz.net/wiki/fsm3onehot)
-- [ ] [Simple FSM 3 (asynchronous reset)](https://hdlbits.01xz.net/wiki/fsm3)
-- [ ] [Simple FSM 3 (synchronous reset)](https://hdlbits.01xz.net/wiki/fsm3s)
+- [x] [Simple FSM 1 (asynchronous reset)](https://hdlbits.01xz.net/wiki/fsm1)
+- [x] [Simple FSM 1 (synchronous reset)](https://hdlbits.01xz.net/wiki/fsm1s)
+- [x] [Simple FSM 2 (asynchronous reset)](https://hdlbits.01xz.net/wiki/fsm2)
+- [x] [Simple FSM 2 (synchronous reset)](https://hdlbits.01xz.net/wiki/fsm2s)
+- [x] [Simple state transitions 3](https://hdlbits.01xz.net/wiki/fsm3comb)
+- [x] [Simple one-hot state transitions 3](https://hdlbits.01xz.net/wiki/fsm3onehot)
+- [x] [Simple FSM 3 (asynchronous reset)](https://hdlbits.01xz.net/wiki/fsm3)
+- [x] [Simple FSM 3 (synchronous reset)](https://hdlbits.01xz.net/wiki/fsm3s)
 - [ ] [Design a Moore FSM](https://hdlbits.01xz.net/wiki/exams/ece241_2013_q4)
 - [ ] [Lemmings 1](https://hdlbits.01xz.net/wiki/lemmings1)
 - [ ] [Lemmings 2](https://hdlbits.01xz.net/wiki/lemmings2)
